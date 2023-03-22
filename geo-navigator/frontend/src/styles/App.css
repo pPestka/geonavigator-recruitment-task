@@ -1,0 +1,25 @@
+body {
+  margin: 50px;
+  font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: rgb(25, 187, 25);
+}
+
+.list-secondary {
+  list-style-position: inside;
+}
+
+td,
+table {
+  border: 1px solid black;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 2px;
+}
