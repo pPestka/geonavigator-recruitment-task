@@ -15,7 +15,9 @@ If you specify coordinates outside these ranges, the application shows an error 
 # Activation.
 1. Download the repository from GitHub.
 2. Open the "backend" folder located in the root of the project using a code editor (IntelliJ recommended), navigate to the SpringbootappApplication.java file located in src/main/java/pl/geonavigator/backend/SpringbootappApplication.java and run it.
-3. Open the "frontend" folder located in the root of the project using a code editor (Visual Studio Code recommended), open Terminal and run it using eg "npm start".
+3. Open the "frontend" folder located in the root of the project using a code editor (Visual Studio Code recommended), open Terminal and run it using consecutively:
+npm install
+npm start
 
 # Technologies used.
 Backend: SpringBoot
